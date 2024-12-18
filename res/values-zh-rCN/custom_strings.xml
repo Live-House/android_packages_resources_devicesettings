@@ -225,7 +225,7 @@
     <string name="powershare_enable_summary">将其他设备放在你的手机背面为其充电</string>
     <string name="hbm_fragment_title">高亮度模式</string>
     <string name="hbm_fragment_summary">高亮度模式设置</string>
-    <string name="hbm_mode_title">HBM</string>
+    <string name="hbm_mode_title">高亮度模式</string>
     <string name="hbm_mode_summary">启用峰值亮度</string>
     <string name="auto_hbm_title">自动高亮度模式</string>
     <string name="auto_hbm_summary">根据阳光调整峰值亮度</string>
