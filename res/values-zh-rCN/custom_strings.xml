@@ -15,6 +15,10 @@
      limitations under the License.
 -->
 <resources>
+    <string name="htsr_title">触控响应速度</string>
+    <string name="htsr_enable_title">提高触控响应速度</string>
+    <string name="htsr_enable_summary">提高触控轮询率以降低延迟</string>
+    <string name="htsr_enable_summary_not_supported">当前内核不支持提高触控响应速度</string>
     <string name="dolby_title">杜比全景声</string>
     <string name="dolby_enable">使用杜比全景声</string>
     <string name="dolby_profile_title">配置文件</string>
