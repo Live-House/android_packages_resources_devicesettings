@@ -271,7 +271,7 @@
     <string name="doze_brightness_high">高亮度</string>
     <string name="doze_brightness_adaptive">自适应亮度</string>
     <string name="refresh_title">每个应用的刷新率</string>
-    <string name="refresh_summary">为每个应用设置特定的刷新率</string>
+    <string name="refresh_summary">为每个应用程序设置特定的刷新率</string>
     <string name="refresh_default">默认​​​​​</string>
     <string name="refresh_low">低 (30Hz)</string>
     <string name="refresh_medium">中 (60Hz)</string>
