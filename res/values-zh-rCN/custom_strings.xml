@@ -274,7 +274,7 @@
     <string name="refresh_summary">为每个应用设置特定的刷新率</string>
     <string name="refresh_default">默认​​​​​</string>
     <string name="refresh_low">低 (30Hz)</string>
-    <string name="refresh_medium">标准 (60Hz)</string>
+    <string name="refresh_medium">中 (60Hz)</string>
     <string name="refresh_high">高 (90Hz)</string>
     <string name="refresh_extreme">极致 (120Hz)</string>
     <string name="powershare_enable_title">电池共享</string>
